@@ -2,3 +2,5 @@
 console.log("Hello, welcome to JavaScript learning session!");  
 console.log("JavaScript is a versatile programming language used for web development.");
 console.log("It allows developers to create interactive and dynamic web pages.");   
+
+
