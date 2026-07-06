@@ -1,3 +1,4 @@
 // hi every today we will learn about javascript and its features. JavaScript is a versatile programming language that is primarily used for web development. It allows developers to create interactive and dynamic web pages. Some of the key features of JavaScript include:
 console.log("Hello, welcome to JavaScript learning session!");  
 console.log("JavaScript is a versatile programming language used for web development.");
+console.log("It allows developers to create interactive and dynamic web pages.");   
